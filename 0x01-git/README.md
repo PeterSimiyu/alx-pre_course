@@ -1,1 +1,1 @@
-Git project
+Understanding git
